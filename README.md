@@ -1,16 +1,12 @@
-### Hi there 👋
+## Intro
+👋
+Hello, My name is **Jae Min Ko**.
 
-<!--
-**KoJaeMin/KoJaeMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in **Web Server Programming**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Used
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Express-ffffff?style=flat&logo=express&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Nest-E0234E?style=flat&logo=nestjs&logoColor=ffffff"/>
