@@ -18,10 +18,10 @@
 
 ### Skill Level
 <div>
-<img src="https://img.shields.io/badge/-4-007bff?style=plastic" title = "관련 지식과 경험에 전문적이며 다른 사람을 리드하고 교육할 수 있는 정도의 수준입니다." style="max-width: 100%;height: 35px;"> - Advanced
+<img src="https://img.shields.io/badge/-4-007bff?style=plastic" title = "관련 지식과 경험에 전문적이며 다른 사람을 리드하고 교육할 수 있는 정도의 수준입니다."> - Advanced
 </div>
 <div>
-<img src="https://img.shields.io/badge/-3-00c8ff?style=plastic" title = "관련 지식과 경험이 풍부하여 능숙하게 업무 수행이 가능한 수준입니다." style="max-width: 100%;height: 35px;"> - Proficient
+<img src="https://img.shields.io/badge/-3-00c8ff?style=plastic" title = "관련 지식과 경험이 풍부하여 능숙하게 업무 수행이 가능한 수준입니다."> - Proficient
 <ul>
 <li>JavaScript</li>
 <li>Node.js</li>
@@ -29,14 +29,14 @@
 </ul>
 </div>
 <div>
-<img src="https://img.shields.io/badge/-2-6c757d?style=plastic" title = "능숙하진 않지만 기본적인 업무 수행 가능한 수준입니다." style="max-width: 100%;height: 35px;"> - Developing
+<img src="https://img.shields.io/badge/-2-6c757d?style=plastic" title = "능숙하진 않지만 기본적인 업무 수행 가능한 수준입니다."> - Developing
 <ul>
 <li>TypeScript</li>
 <li>PostgreSQL</li>
 </ul>
 </div>
 <div>
-<img src="https://img.shields.io/badge/-1-f8f9fa?style=plastic" title = " 해당 능력/지식이 무엇인지 알고는 있지만, 관련 업무 수행 경험이 충분치 않고 도움이 필요한 수준입니다." style="max-width: 100%;height: 35px;"> - Novice
+<img src="https://img.shields.io/badge/-1-f8f9fa?style=plastic" title = " 해당 능력/지식이 무엇인지 알고는 있지만, 관련 업무 수행 경험이 충분치 않고 도움이 필요한 수준입니다."> - Novice
 <ul>
 <li>Nest.js</li>
 <li>AWS</li>
