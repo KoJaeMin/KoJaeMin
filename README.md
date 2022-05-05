@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Nest-E0234E?style=flat&logo=nestjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=ffffff">
-<img scr="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=ffffff">
 </div>
 
 ### Skill Level
