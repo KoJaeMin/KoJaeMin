@@ -12,13 +12,13 @@
 
 ### Tech Used
 <div>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Express-ffffff?style=flat&logo=express&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Nest-E0234E?style=flat&logo=nestjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=ffffff">
-<img scr="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=ffffff">
+<img scr="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=ffffff">
 </div>
 
 ### Skill Level
@@ -33,7 +33,6 @@
   :three: <b>Proficient</b>
 </div>
 <ul>
-<li>JavaScript</li>
 <li>Node.js</li>
 <li>Express.js</li>
 </ul>
@@ -46,6 +45,7 @@
 <ul>
 <li>TypeScript</li>
 <li>PostgreSQL</li>
+<li>Pytorch</li>
 </ul>
 </div>
 
