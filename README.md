@@ -1,10 +1,10 @@
 # 고재민
 
------------
-
 ## Info
 
-[Portfolio](https://longhaired-farm-2e6.notion.site/7801038ab22b48d9aecb5ecf4a7dc5d9) | [Blog](https://hopedevelopment.tistory.com/)
+Portfolio : [Portfolio](https://longhaired-farm-2e6.notion.site/7801038ab22b48d9aecb5ecf4a7dc5d9)
+
+Blog : [Blog](https://hopedevelopment.tistory.com/)
 
 ## Skills
 
