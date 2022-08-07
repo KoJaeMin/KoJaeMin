@@ -1,19 +1,26 @@
 # 고재민
 
-## Info
+### Hi there 👋
+#### I'm JaeMin Ko
+---------------
 
-Portfolio : [Portfolio](https://longhaired-farm-2e6.notion.site/7801038ab22b48d9aecb5ecf4a7dc5d9)
+@contact : jvc123456@khu.ac.kr
 
-Blog : [Blog](https://hopedevelopment.tistory.com/)
+@Blog : [Tech Blog](https://hopedevelopment.tistory.com)
+
+--------------
+
+### I'm Interested in...
+- Web Backend
+
+### Profile  
+- (17.03 ~ ) 경희대학교 컴퓨터공학과  
+- (20.01 ~ 20.12) 경희대학교 컴퓨터공학과 학술동아리 D.COM([@DCOM_KHU](https://github.com/dcom-khu)) 동아리장
 
 ## Skills
 
 ![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=KoJaeMin&layout=compact)
 
-
-<!-- 평소 최신 기술에 관심이 있으며 기술 개발 블로그 및 공식 문서를 읽고 따라해 보는 것을 좋아합니다.
-
-꾸준히 학습하고 노력하여 더 나은 개발자로 성장하려합니다. -->
 
 
 <!-- ### Tech Used
