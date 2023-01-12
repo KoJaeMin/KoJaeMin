@@ -20,7 +20,7 @@
 
 ## Skills
 
-![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=KoJaeMin&layout=compact)
+![github status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KoJaeMin&layout=compact)
 
 
 
