@@ -12,8 +12,8 @@
 - AI
 
 ### ⚒️ Tech Stack
-- JavaScript/TypeScript, Go
-- Express, NestJS, fiber, gin
+- Go, JavaScript/TypeScript, Solidity, SQL
+- Fiber, Gin, Express, NestJS
 - TypeORM, Sequelize
 - PostgreSQL, LevelDB, Redis
 - Docker, GitHub Actions
